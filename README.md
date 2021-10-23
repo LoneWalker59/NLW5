@@ -1,5 +1,12 @@
-# 🚀 Next Level Week 5
-Next Level Week is a 1-week web development bootcamp offered and organized by a Brazilian startup @rocketseat.
+# 🚀 Next Level Week 5: Challenge
+In this version of @rocketseat's NLW5 project, students were challenged to design a desktop virtual badge based on the instructions from the mobile version of the previous project.
 
 # 🧾 Project
-In this project we learned how to create a virtual badge with links to our social networks via HTML and CSS.
+> Virtual desktop badge.
+
+P.s: To leave the project with "my face" I decided to make several changes and research on how to develop what I wanted, these are my personal changes:
+> Zoom effect when selecting a social media.
+> 3D effect
+> Animated background
+> Interactable background
+
