@@ -5,8 +5,8 @@ In this version of @rocketseat's NLW5 project, students were challenged to desig
 > Virtual desktop badge.
 
 P.s: To leave the project with "my face" I decided to make several changes and research on how to develop what I wanted, these are my personal changes:
-> Zoom effect when selecting a social media.
-> 3D effect
-> Animated background
-> Interactable background
+* Zoom effect when selecting a social media.
+* 3D effect
+* Animated background
+* Interactable background
 
