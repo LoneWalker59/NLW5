@@ -19,9 +19,10 @@ html,
       }
 
       main {
-        background: url(images/background.png) ;
-        width: 375px; 
-        height: 812px;
+        background: url(images/background.png) no-repeat center/cover;
+        width: 100vw;
+        min-height: 812px; 
+        height: 100vh;
       }
 
       .container {
@@ -79,3 +80,5 @@ html,
         gap: 0.5rem;
         justify-content: center;
       }
+      
+      
