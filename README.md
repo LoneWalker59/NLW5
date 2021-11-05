@@ -1,5 +1,5 @@
 <h1 align="center">
- NLW-Heat - Virtual Badge - DoWhile 2021
+ NLW-Heat - Virtual Badge (Mobile only) - DoWhile 2021
 </h1>
 
 ## 🚀 Technologies
