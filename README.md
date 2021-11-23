@@ -2,6 +2,10 @@
  NLW-Heat - Virtual Badge (Mobile only) - DoWhile 2021
 </h1>
 
+<p align="center">
+ <img alt="Rocket.Q" src="https://user-images.githubusercontent.com/92222852/142973227-f3cd9412-7ac3-4c0f-aada-6031ed5f39f8.png" width="35%">
+</p>
+
 ## 🚀 Technologies
 
 Project developed with the following technologies:
